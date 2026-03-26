@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+kcb_portfolio.db
+data/*.csv
+__pycache__/
